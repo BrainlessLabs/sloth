@@ -52,6 +52,9 @@
     <Filter Include="Header Files\blib\rapidjson\msinttypes">
       <UniqueIdentifier>{514089ba-3b92-42b4-81ce-68bbfff8d7b8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\blib\sloth_details">
+      <UniqueIdentifier>{ff2bc9e4-98cf-416b-98c9-3a22a613da73}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -280,6 +283,12 @@
     </ClInclude>
     <ClInclude Include="..\include\blib\rapidjson\msinttypes\stdint.h">
       <Filter>Header Files\blib\rapidjson\msinttypes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\blib\sloth_details\_sloth.hpp">
+      <Filter>Header Files\blib\sloth_details</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\blib\sloth.hpp">
+      <Filter>Header Files\blib</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
