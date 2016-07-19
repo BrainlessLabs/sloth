@@ -1,2 +1,2 @@
 # sloth
-An experimental Python interpreter
+An experimental Just in Time (JIT) library in C++
